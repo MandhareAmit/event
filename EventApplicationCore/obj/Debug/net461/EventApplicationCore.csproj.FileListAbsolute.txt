@@ -1,0 +1,430 @@
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.exe.config
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.deps.json
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.exe
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\libuv.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.Agent.Intercept.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.DependencyCollector.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.PerfCounterCollector.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.ServerTelemetryChannel.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.PlatformAbstractions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Newtonsoft.Json.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.AppContext.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Buffers.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Collections.Immutable.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.ComponentModel.Primitives.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Console.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Globalization.Calendars.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.IO.Compression.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Net.Http.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Net.Sockets.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Numerics.Vectors.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Reflection.Metadata.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Text.Encodings.Web.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Threading.Thread.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Xml.ReaderWriter.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Xml.XmlDocument.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Linq.Dynamic.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\System.Interactive.Async.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Remotion.Linq.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.pdb
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll.config
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.pdb
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.pdb
+E:\project\EventApplicationCore\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csprojResolveAssemblyReference.cache
+E:\project\EventApplicationCore\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csproj.EventApplicationCore.exe.config
+E:\project\EventApplicationCore\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csproj.CoreCompileInputs.cache
+E:\project\EventApplicationCore\EventApplicationCore\obj\Debug\net461\EventApplicationCore.AssemblyInfoInputs.cache
+E:\project\EventApplicationCore\EventApplicationCore\obj\Debug\net461\EventApplicationCore.AssemblyInfo.cs
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Session.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\EventApplicationCore.pdb
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\EventApplicationCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\EventApplicationCore\EventApplicationCore\obj\Debug\net461\EventApplicationCore.exe
+E:\project\EventApplicationCore\EventApplicationCore\obj\Debug\net461\EventApplicationCore.pdb
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\appsettings.Development.json
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\appsettings.json
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\bower.json
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\bundleconfig.json
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.exe.config
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.deps.json
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.exe
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.pdb
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Session.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.AppContext.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Buffers.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Console.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Net.Http.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\libuv.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Linq.Dynamic.dll
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.pdb
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll.config
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.pdb
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.pdb
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.exe.config
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.AssemblyInfo.cs
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csproj.CopyComplete
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.exe
+C:\Users\Amit\Desktop\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.pdb
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\appsettings.Development.json
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\appsettings.json
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\bower.json
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\bundleconfig.json
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.exe.config
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.deps.json
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.exe
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.pdb
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Session.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.AppContext.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Buffers.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Console.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Net.Http.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\libuv.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\System.Linq.Dynamic.dll
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.pdb
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll.config
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.pdb
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.pdb
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.exe.config
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.AssemblyInfo.cs
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.csproj.CopyComplete
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.exe
+C:\Users\Amit\Desktop\New folder\ASP.NET-CORE-MVC-Project-Event-Management-master\EventApplicationCore\obj\Debug\net461\EventApplicationCore.pdb
